@@ -1,4 +1,4 @@
-Basic Info
+# Basic Info
   Character Name: 
   Alias: 
   Class: 
@@ -9,19 +9,19 @@ Basic Info
   Status: 
   Playability (Story, Campaign, or NPC): 
 
-Physical Description
+# Physical Description
   Eye Color: 
   Hair Color: 
   Height: 
 
-Social
+# Social
   Birthplace: 
   Current Residence: 
   Employment: 
   Titles: 
   Notable Achievements:
 
-Relationships
+# Relationships
   Friends: 
   Companions: 
   Family: 
@@ -29,5 +29,5 @@ Relationships
   Enemies: 
   Other: 
 
-About
+# About
   Lorem ipsum
