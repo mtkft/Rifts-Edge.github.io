@@ -46,6 +46,8 @@ Rivals:
 
 Enemies: 
 
+Significant Other/Partner:
+
 Other: 
 
 # About
