@@ -47,7 +47,7 @@ Friends:
 Companions: 
 
 Family: 
- - Sariha Caudell: Older Sister (Deceased)
+ - Sariha Caudell: Older Sister (Alive)
  - Unnamed Mother (Presumed Deceased)
  - Unnamed Father (Presumed Deceased)
 
