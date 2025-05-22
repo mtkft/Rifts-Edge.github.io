@@ -13,6 +13,7 @@ Alignment:
 Affiliations: 
  - Adventurer's Guild
  - Spinoza Estate (Formerly)
+ - Lancehounds (Formerly)
 
 Age: 38
 
@@ -35,6 +36,7 @@ Current Residence: Valemire, Spinoza Estate
 Employment: 
  - Retired
  - Adventurer (Formerly)
+ - Lancehound (Training not completed due to deatb of charge)
 
 Titles: 
 
