@@ -48,6 +48,8 @@ Family:
 Rivals: 
 
 Enemies: 
+ - Sandoval Estate
+ - Sariah Caudell
 
 Significant Other/Partner:
 
