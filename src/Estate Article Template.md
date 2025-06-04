@@ -1,10 +1,10 @@
 # (Blank) Estate
-### Capital:
+### Capital
 
-### Demonym: 
+### Demonym
 
-### Founder: 
+### Founder
 
-### Current Estate Head: 
+### Current Estate Head
 
 ## Geography
