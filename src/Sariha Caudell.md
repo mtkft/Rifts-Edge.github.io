@@ -59,6 +59,7 @@ Enemies:
  - 
 
 Significant Other/Partner:
+ - Lilah Kintzele: Fiancée (Deceased)
 
 Other: 
  - Izzy bas Dvoyre (Acquaintance)
