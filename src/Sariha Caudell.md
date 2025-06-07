@@ -5,7 +5,7 @@ Character Name: Sariha Caudell
 Alias:
  - 
 
-Class: Rougue/Artificer
+Class: Rogue/Artificer
 
 Race: Human
 
@@ -56,8 +56,7 @@ Rivals:
 Enemies: 
  - Pavek Estate
  - 
-
-Significant Other/Partner: 
+Significant Other/Partner:
  - 
 
 Other: 
