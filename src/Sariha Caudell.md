@@ -47,7 +47,7 @@ Friends:
 Companions: 
 
 Family: 
- - Jace CCarin: Younger Brother (Deceased)
+ - Jace Carin: Younger Brother (Deceased)
  - Unnamed Mother (Presumed Deceased)
  - Unnamed Father (Presumed Deceased)
 
@@ -56,8 +56,9 @@ Rivals:
 Enemies: 
  - Pavek Estate
  - 
-Significant Other/Partner:
  - 
+
+Significant Other/Partner:
 
 Other: 
  - Izzy bas Dvoyre (Acquaintance)
