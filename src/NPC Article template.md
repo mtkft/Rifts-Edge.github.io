@@ -3,6 +3,8 @@ Character Name:
 
 Alias: 
 
+Pronouns:
+
 Class: 
 
 Race: 
@@ -17,6 +19,8 @@ Status:
 
 Playability (Story, Campaign, or NPC): 
 
+Associated Songs/Playlists:
+ - 
 # Physical Description
 Eye Color: 
 
