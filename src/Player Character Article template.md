@@ -3,6 +3,8 @@ Character Name:
 
 Alias: 
 
+Character Pronouns: 
+
 Class: 
 
 Race: 
@@ -18,6 +20,11 @@ Status:
 Played by:
 
 Conceived by:
+
+Player Pronouns: 
+
+Associated Songs/Playlists:
+ - 
 
 # Physical Description
 Eye Color: 
