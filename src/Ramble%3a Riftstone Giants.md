@@ -6,4 +6,4 @@ You can’t understand, of course. The sound is reminiscent of the crushing and 
 
 ...
 
-You awaken to warm, dry air, and the absence of that perpetual dread that permeates your bones. You're no longer in the Rift, of this you're certain. The gnawing hunger remains, though, and the smell of warm dough, honey and spices makes your stomach rumble. You will your body to rise from the sheets. 
+You awaken to warm, dry air, and the absence of that perpetual dread that permeates your bones. You're no longer in the Rift, of this you're certain. The gnawing hunger remains, though, and the smell of warm dough, honey and spices makes your stomach rumble. You will your body to rise from the sheets, the edges of your chipped nails catching on strands of wool in the blankets around you. The room is lit only by 
