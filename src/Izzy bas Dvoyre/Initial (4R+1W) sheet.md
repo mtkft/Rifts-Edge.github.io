@@ -8,7 +8,7 @@ Class: Rogue
 
 Race: Half-elf but you really don't see most of it
 
-Alignment: TN (TODO: elaborate you bastard)
+Alignment: CN
 
 Affiliations: Pavek? Harke? deffo Harke bc extreme dykery
 
@@ -39,14 +39,14 @@ Birthplace:
 
 Current Residence: 
 
-Employment: 
+Employment: Imperial Counterintelligence, House Pavek. answers to Ignacio
 
 Titles: 
 
 Notable Achievements:
 
 # Relationships
-Friends: 
+Friends: Sariha Caudell
 
 Companions: 
 
@@ -63,8 +63,8 @@ Other:
 # Game Stats
 | WIS | INT | CHA | STR | DEX | CON |
 | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |
-|     |     |     |     |     |     |
+| 12  | 12  | 18  | 5   | 16  | 11  |
+| +1  | +1  | +4  | -3  | +3  | 0   |
 ## Class: Rogue
 archetype: Ṡ̵̲̭͖̃o̶̦͔̣̤̊̋͐ǘ̸̧̲̳̻͋́̃́l̵͓͇̗̺͆͐̉̑k̴̹͑n̷̨̧̢̦̗̾̓̑͂ị̶̢̝̲̏̈͋̀f̵̧̤͎̠͚̐̍̎e̵̢͖̜̝̣͑͆̇̀
 ### Feature I
@@ -72,5 +72,8 @@ archetype: Ṡ̵̲̭͖̃o̶̦͔̣̤̊̋͐ǘ̸̧̲̳̻͋́̃́l̵͓͇̗͆͐̉̑�
 ### Feature III
 
 ### Leveling related Shtuff<sup>TM</sup>
+
+## Multiclass: Warlock
+like one level, so harke
 # About
   Lorem ipsum
