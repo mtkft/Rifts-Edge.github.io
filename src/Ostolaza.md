@@ -6,5 +6,5 @@ Omeun
 ### Founder
 
 ### Current  Head
-
+ - Council of Omeun
 ## Geography
