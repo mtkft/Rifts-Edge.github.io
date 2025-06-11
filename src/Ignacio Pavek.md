@@ -7,17 +7,17 @@ Pronouns: ~~P/A/V/E/K~~ he/him
 
 Class: 
 
-Race: 
+Race: Human
 
 Alignment: 
 
-Affiliations: 
+Affiliations: Pavek Military 
 
 Age: 
 
-Status: 
+Status: Alive
 
-Playability (Story, Campaign, or NPC): 
+Playability (Story, Campaign, or NPC): NPC
 
 Associated Songs/Playlists:
  - 
@@ -29,9 +29,9 @@ Hair Color:
 Height: 
 
 # Social
-Birthplace: 
+Birthplace: Pavek Estate
 
-Current Residence: 
+Current Residence: Pavek estate 
 
 Employment: 
 
@@ -45,14 +45,17 @@ Friends:
 Companions: 
 
 Family: 
+ - Abiola Pavek (Older Sister)
 
 Rivals: 
 
 Enemies: 
+ - Jyoshi Sandoval
 
 Significant Other/Partner:
 
 Other: 
+ - Izzy bas Dvoyre (Subordinate$
 
 # About
   Lorem ipsum
