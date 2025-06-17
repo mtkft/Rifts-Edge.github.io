@@ -1,6 +1,8 @@
 # Ostolaza
 ### Capital
 Omeun
+### Other Cities of Note
+ - 
 ### Demonym
 
 ### Founder
