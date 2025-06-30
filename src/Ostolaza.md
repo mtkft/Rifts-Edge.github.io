@@ -15,6 +15,11 @@ Omeun
  - Lancehounds
  - (whoever tf mints Ivory)
 ## Geography
+### Major Landmarks
+ - Councilhouse (Omeum)
+ - (name for the big pile of giant sheep bones) (Omeum)
+ - College Headquarters (Omeum)
+ - Sunpetal Meadows
 
 # About
 Ostolaza is a neutral territory that belongs to no Estate. It is where the Shepherds are based, where Lancehounds complete a large portion of their training, and where major meetings between Heads of Estates are held. It is led by the Council, which is located in the sprawling capital city of Omeun, as is the Headquarters Branch of the College and the(again, whatever organization mints ivory.).
