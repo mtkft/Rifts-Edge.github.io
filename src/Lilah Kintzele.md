@@ -6,7 +6,7 @@ Alias:
  - El (By Jace and Sariha Caudell)
  - 
 
-Class: Ranger
+Class: Lancehound (Oathbreaker)
 
 Race: Half-Dwarven (descendant)
 
@@ -32,9 +32,9 @@ Birthplace: Sandoval Estate
 
 Current Residence: Sandoval Estate 
 
-Employment: 
+Employment: Mercenary, Rogue Lancehound (protest dog)
 
-Titles: 
+Titles: Lancehound
 
 Notable Achievements:
 
