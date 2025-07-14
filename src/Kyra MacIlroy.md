@@ -48,7 +48,7 @@ Friends:
 
 Companions: 
  - Harke MacIlroy
- - Unnamed Spinozan Heir (Deceased)
+ - Jye Spinoza (Charge) (Deceased)
 
 Family: 
 
