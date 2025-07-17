@@ -1,4 +1,4 @@
-#Rifts Edge
+# Rifts Edge
 
 The Estates are... honestly it's easiest to think of them as kingdoms. Each about the size of Alaska.
 Each ruled by a head of estate with the same surname as the name of the estate
