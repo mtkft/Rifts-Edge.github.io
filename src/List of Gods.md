@@ -16,6 +16,7 @@
 ## Sonali: Goddess of Creation 
 
 ## Tekeria: Goddess of Evocation
+ - part of the Pantheon
 
 ## Toi: God of Divination
  - part of the Pantheon
