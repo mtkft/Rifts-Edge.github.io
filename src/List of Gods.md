@@ -24,3 +24,10 @@
 ## Triandrus: God of Aberration 
  - Glass Sprites are his minions 
 
+
+
+
+# Unnamed Deities
+
+## "The Ringmaster": Goddess of Recollection 
+ - Owns and runs the Memory Market
