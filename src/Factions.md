@@ -21,9 +21,10 @@
  - Base of Operations: Monirul, Pavek 
  - Current Leader: Abiola Pavek
 
-## Independent Seafarers Union 
+## Independent Seafarers Union (ISU)
  - Base of Operations: Somewhere in the Spinozen Sea
  - Current Leaders: Kaleah and Mauri Tobar
+ - (Don't let the name fool you: these are pirates)
 
 ## Rift's Edge Adventures Guild (REAG)
  - Base of Operations: Ostolaza
@@ -32,6 +33,10 @@
 ## Sandoval Family
  - Base of Operations: Sandoval Estate
  - Current Leader: Jyoshi Sandoval
+
+## The Shepherds
+ - Base of Operations: , Ostolaza
+ - Current Leader: 
 
 ## Skywaymen
  - Base of Operations: Pavek Estate
