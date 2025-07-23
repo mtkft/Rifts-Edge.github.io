@@ -34,9 +34,9 @@
  - Base of Operations: Sandoval Estate
  - Current Leader: Jyoshi Sandoval
 
-## The Shepherds
- - Base of Operations: , Ostolaza
- - Current Leader: 
+## Shepherds
+ - Base of Operations: Omeun, Ostolaza
+ - Current Leader: ??
 
 ## Skywaymen
  - Base of Operations: Pavek Estate
@@ -45,3 +45,9 @@
 ## Spinoza Family
  - Base of Operations: Marcamin, Spinoza
  - Current Leader: Almena Spinoza
+
+## Thieves Guild
+ - Base of Operations: ??
+ - Current Leader: ??
+
+
