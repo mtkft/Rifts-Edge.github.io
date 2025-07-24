@@ -22,4 +22,5 @@ Wayfinders can be bought at major Guild Lodges, but if people find out you just 
 Some get theirs personalized; these become prized family heirlooms, passed down through generations of adventurers in the same family. They often program the third hand to their family home, the hand spinning round and round and emitting a gentle *whirr* as they cross the threshold and greet their loved ones.
 
 # Stats (if applicable)
-a
+Durability: 5-6/10?(these things are rather durable; they're built to last for generations)
+Spell slots: 2?
