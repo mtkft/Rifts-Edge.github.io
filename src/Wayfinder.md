@@ -20,6 +20,8 @@ This Wayfinder can also cast Light or Sending a certain amount of times per day 
 This is a Very Expensive piece of equipment. Given as a reward to seasoned adventurers, either after *x* years as an active member of the guild, or after successfully completing *n* successful commissions, whatever comes first.
 Wayfinders can be bought at major Guild Lodges, but if people find out you just bought yours you’ll get one hell of a stink eye from adventures who earned theirs.
 Some get theirs personalized; these become prized family heirlooms, passed down through generations of adventurers in the same family. They often program the third hand to their family home, the hand spinning round and round and emitting a gentle *whirr* as they cross the threshold and greet their loved ones.
+Adventurers receive Calls from the Guild on their Wayfinders. This can be summons for specific commissions or quests, updates on quest information, notifications of available commissions, etc.. Adventurers can set their availability at any Guild Lodge to specify when they can receive calls.
+Adventurers may also contact each other through the Sending feature, storing a (probably limited) number of contacts. I reckon it takes about two turns (12 seconds) to pair Wayfinders.
 
 # Stats (if applicable)
 Durability: 5-6/10?(these things are rather durable; they're built to last for generations)
