@@ -2,18 +2,21 @@
 Character Name: Marcella Rutledge
 
 Alias: 
+ - "Hammer of Carin"
 
-Character Pronouns: 
+Character Pronouns: She/her
 
-Class: 
+Class: Lancehound (barbarian)
 
 Race: Human 
 
 Alignment: 
 
-Affiliations: Pavek Estate
+Affiliations:
+ - REAG (currently)
+ - Carin Estate (Formerly)
 
-Age: 
+Age: 30s
 
 Status: Alive
 
@@ -38,6 +41,7 @@ Height:
 
 ## Armament
 ### Prim
+ - Big Ass Hammer
 
 ### Sec
 # Social
@@ -45,7 +49,7 @@ Birthplace:
 
 Current Residence: 
 
-Employment: Field Medic for Pavek
+Employment: Adventurer 
 
 Titles: 
 
@@ -64,7 +68,7 @@ Enemies:
 
 Significant Other/Partner:
 
-Other: 
+Other: Atelio Carin (former Charge)
 
 # Game Stats
 | WIS | INT | CHA | STR | DEX | CON |
