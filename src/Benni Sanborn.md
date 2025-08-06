@@ -1,7 +1,7 @@
 # Basic Info
-Character Name: Benni Sanborn
+Character Name: Bennidict Florentino Sanborn
 
-Alias: 
+Alias: Benni Sanborn
 
 Class: Bard
 
@@ -42,7 +42,7 @@ Companions:
 
 Family: 
 
-Rivals: 
+Rivals: Emery Galmon (ex-gf)
 
 Enemies: 
 
