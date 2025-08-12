@@ -1,7 +1,7 @@
 # Basic Info
 Character Name: Reynier Carin
 
-Alias: 
+Alias: Claude Cantor
 
 Pronouns: He/Him
 
@@ -13,7 +13,7 @@ Alignment:
 
 Affiliations: 
 
-Age: 
+Age: 30?
 
 Status: Alive 
 
@@ -46,11 +46,13 @@ Companions:
  - unnamed lancehound
 
 Family: 
- - Atelio (older? Brother)
+ - Atelio (older Brother)
 
 Rivals: 
 
-Enemies: 
+Enemies:
+ - Cyra Nytinera
+ - Atelio Carin
 
 Significant Other/Partner:
 
