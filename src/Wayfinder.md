@@ -23,6 +23,12 @@ Some get theirs personalized; these become prized family heirlooms, passed down 
 Adventurers receive Calls from the Guild on their Wayfinders. This can be summons for specific commissions or quests, updates on quest information, notifications of available commissions, etc.. Adventurers can set their availability at any Guild Lodge to specify when they can receive calls.
 Adventurers may also contact each other through the Sending feature, storing a (probably limited) number of contacts. I reckon it takes about two turns (12 seconds) to pair Wayfinders.
 
+A Warning:
+Wayfinders have a glass cover over the hands to protect the mechanisms from debris. Glass Sprites have been known to inhabit the reflections in this glass and use illusions to lead adventurers off course.
+Wayfinders distributed by the Guild after (year) have been treated with an anti-reflective coating. Wayfinders distributed prior should be checked for anomalous reflections before use, and can be brought to a tier (#) or higher Guild Lodge for Glass Sprite removal and anti-reflective coating application.
+Please Adventure Responsibly.
+- Rift's Edge Adventurer's Guild
+
 # Stats (if applicable)
 Durability: 5-6/10?(these things are rather durable; they're built to last for generations)
 Spell slots: 2?
