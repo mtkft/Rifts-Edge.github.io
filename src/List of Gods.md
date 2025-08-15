@@ -2,6 +2,7 @@
 
 ## Harke: Goddess of Devotion
  - covers several other love-related domains as well
+  - Adoration, Seduction
 
 ## Iodahri: God of Conjuration
  - part of the Pantheon 
