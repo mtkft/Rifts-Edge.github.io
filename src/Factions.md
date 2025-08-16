@@ -12,6 +12,11 @@
  - Base of Operations: Omeun, Ostolaza
  - Current Leader: Director Moira Wicksell
 
+## Forged By Four (FX4)
+ - Base of Operations: 
+ - Current Leader: 
+      - Smiths Union: founded by Blacksmiths, Silversmiths, goldsmiths and whitesmiths. Slowly other types of smiths joind the union.
+
 ## Grand Order of Sonali's Light
  - Base of Operations: Beville Estate?
  - Current Leader: Trace Malcomb
