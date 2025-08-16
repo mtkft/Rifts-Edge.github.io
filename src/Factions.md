@@ -26,7 +26,7 @@
  - Current Leader: (Harke? idk)
      - Most Lancehounds serve their Estate's noble family.
      - Some are the personal bodyguard of the Head of Estate (or of the Heir to that title)
-     - Some (oathbreakers) refuse to serve the estates any longer, acting in what they believe is the best interest of the people.
+     - Some (oathbreakers) refuse to serve the estates any longer, acting in what they believe is the best interest of the people or their god.
 
 ## Pavek Family
  - Base of Operations: Monirul, Pavek 
