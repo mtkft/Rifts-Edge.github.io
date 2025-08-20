@@ -26,9 +26,9 @@ Hair Color: Brown
 Height: 5'11"
 
 # Social
-Birthplace: Pavek Estate
+Birthplace: Monirul, Pavek
 
-Current Residence: Pavek Estate
+Current Residence: Monirul, Pavek
 
 Employment: Head of Pavek Estate
 
