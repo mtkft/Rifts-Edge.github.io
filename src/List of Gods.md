@@ -30,7 +30,8 @@
  - Deceased 
 
 ## Triandrus: God of Aberration 
- - Glass Sprites are his minions 
+ - Glass Sprites are his minions
+ - Triandrus welcomes the outcasts. Those considered odd by society.
 
 
 
