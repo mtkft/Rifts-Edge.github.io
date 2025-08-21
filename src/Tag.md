@@ -18,7 +18,7 @@ Age: 25
 
 Status: Alive
 
-Played by:
+Played by: 
 
 Conceived by:
 
@@ -61,6 +61,7 @@ Notable Achievements:
 Friends: 
 
 Companions: 
+ - Asteria Belstrad (Mentor)
 
 Family: 
  - Kelaz Taghart (Eldest Brother)
@@ -73,6 +74,7 @@ Family:
 Rivals: 
 
 Enemies: 
+ - Tyran Taghart (Father)
 
 Significant Other/Partner:
 
