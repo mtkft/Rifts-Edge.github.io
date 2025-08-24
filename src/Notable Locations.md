@@ -25,10 +25,10 @@ Located in: Southern (coastal) Pavek
 
 About: Pavek's "Second Capital". Hosts much of Pavek's trade. Seabreeze and landbreeze facilitate the comings and goings of seafaring ships and airships alike.
 
-## Valmire
+## Valemire
 Located in: Eastern Spinoza
 
-About: 
+About: Located "in the hills where Spinozen rule is meant to end, if the pith-helmeted Pavek grunts could hold it together."(-Izzy bas Dvoyre) Known for few things besides hosting the residence of one Honorable Kyra MacIlroy, and a series of odd deaths relating to a Miss Harke MacIlroy.
 
 
 .
