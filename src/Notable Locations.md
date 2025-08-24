@@ -7,6 +7,7 @@ About: A floating city high in the Earthenbane Mountains. When gazed upon from a
 
 ## Marcamin
 Located in: Coastal Spinoza
+
 About: Spinoza's capital. Sits about halfway down the slope of a dormant volcano, and stretches down to the sea. Bustling port city. Almost everything produced on the islands passes through here.
 
 ## Monirul
@@ -23,6 +24,11 @@ About: The City of Bones. Giant Sheep bones, for the most part, though some huma
 Located in: Southern (coastal) Pavek
 
 About: Pavek's "Second Capital". Hosts much of Pavek's trade. Seabreeze and landbreeze facilitate the comings and goings of seafaring ships and airships alike.
+
+## Valmire
+Located in: Eastern Spinoza
+
+About: 
 
 
 .
