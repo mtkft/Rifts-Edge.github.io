@@ -1,10 +1,10 @@
 # Pavek Estate
 ### Capital
-- Seat of Government: Tuman
+- Seat of Government: Monirul
 ### Demonym
 
 ### Founder
 
-### Current Estate Head
+### Current Estate Head: Abiola Pavek
 
-## Geography
+## Geography: Southeast of Ostolaza
