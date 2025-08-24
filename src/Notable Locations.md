@@ -2,6 +2,7 @@
 
 ## The Crescent City
 Located in: Earthenbane Mountains (Beville/Carin)
+
 About: A floating city high in the Earthenbane Mountains. When gazed upon from a certain angle, the titular crescent shape can be viewed, perfectly framing the moonrise behind it if you time it right.
 
 ## Marcamin
@@ -10,14 +11,17 @@ About: Spinoza's capital. Sits about halfway down the slope of a dormant volcano
 
 ## Monirul
 Located in: Central Pavek
+
 About: Pavek's Capital. A hub for innovation and industry. Air quality who? 😷
 
 ## Omeun
 Located in: Ostolaza
+
 About: The City of Bones. Giant Sheep bones, for the most part, though some human ones may be mixed in. Hosts central headquarters of many neutral organizations(e.g. The College, The REAG, Shepherds, etc.). Currency gets minted here, and diplomatic meetings between Estates are traditionally held here.
 
 ## Tuman
 Located in: Southern (coastal) Pavek
+
 About: Pavek's "Second Capital". Hosts much of Pavek's trade. Seabreeze and landbreeze facilitate the comings and goings of seafaring ships and airships alike.
 
 
@@ -28,4 +32,5 @@ About: Pavek's "Second Capital". Hosts much of Pavek's trade. Seabreeze and land
 .
 ## Place
 Located in: 
+
 About: 
