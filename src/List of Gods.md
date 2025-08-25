@@ -1,5 +1,8 @@
 # List of Gods
 
+## Esandir: Goddess of Illumination 
+ - Goddess of the Sun, Light, Stars, Fire, etc.
+
 ## Harke: Goddess of Devotion
  - covers several other love-related domains as well
   - Adoration, Seduction
@@ -8,14 +11,26 @@
  - part of the Pantheon 
  - Deceased
 
+## Lomis: God of Navigation 
+ - used to be focused on just navigation at sea. is now god of navigation everywhere, and is the patron of travelers.
+
 ## Navarez: God of Transmutation
  - part of the Pantheon
  - Deceased
+
+## Rohadin: Goddess of Erosion 
+ - goddess of aging, and the changing of things due to time
+
+## Rohanna: Goddess of Propagation
+ - Goddess of Agriculture 
 
 ## Sabryn Neomia: Goddess of Abjuration
  - goddess of the moons; this realm's twin moons are named after her
  - Part of the Pantheon
  - Deceased
+
+## Samat: Goddess of Aviation 
+ - now goddess of all things that fly
 
 ## Sonali: Goddess of Creation 
  - "Mother of Creation"
