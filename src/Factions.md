@@ -28,7 +28,7 @@
 
 ## Lancehounds
  - Base of Operations: Decentralized; Training takes place in Omeun, Ostolaza
- - Current Leader: (Harke? idk)
+ - Current Leader: Houndmaster Vestergaard
      - Most Lancehounds serve their Estate's noble family.
      - Some are the personal bodyguard of the Head of Estate (or of the Heir to that title)
      - Some (oathbreakers) refuse to serve the estates any longer, acting in what they believe is the best interest of the people or their god.
