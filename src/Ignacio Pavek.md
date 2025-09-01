@@ -5,7 +5,7 @@ Alias:
 
 Pronouns: ~~P/A/V/E/K~~ he/him
 
-Class: 
+Class: fighter
 
 Race: Human
 
@@ -35,7 +35,7 @@ Current Residence: Pavek estate
 
 Employment: 
 
-Titles: 
+Titles: Lord General 
 
 Notable Achievements:
 
