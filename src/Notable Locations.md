@@ -1,9 +1,24 @@
 # Notable Locations
 
+## Bloomfield
+Located in: Beville Estate 
+
+About: Mayor's name is Leonard
+
+## Chomsky
+Located in: Beville Estate 
+
+About: Mayor's name is Noam
+
 ## The Crescent City
 Located in: Earthenbane Mountains (Beville/Carin)
 
 About: A floating city high in the Earthenbane Mountains. When gazed upon from a certain angle, the titular crescent shape can be viewed, perfectly framing the moonrise behind it if you time it right.
+
+## Eckert
+Located in: Beville Estate 
+
+About: Mayor's name is Penelope 
 
 ## Marcamin
 Located in: Coastal Spinoza
@@ -15,15 +30,20 @@ Located in: Central Pavek
 
 About: Pavek's Capital. A hub for innovation and industry. Air quality who? 😷
 
+## New Oron
+Located in: Beville Estate 
+
+About: 
+
 ## Omeun
 Located in: Ostolaza
 
 About: The City of Bones. Giant Sheep bones, for the most part, though some human ones may be mixed in. Hosts central headquarters of many neutral organizations(e.g. The College, The REAG, Shepherds, etc.). Currency gets minted here, and diplomatic meetings between Estates are traditionally held here.
 
-## Old Oron City
+## Old Oron
 Located in: Beville Estate 
 
-About: The Old Capital of the Kingdom of Oron. Mostly abandoned but for a small religious sect.
+About: The Old Capital of the Kingdom of Oron. Mostly abandoned but for the Templekeepers.
 
 ## Tuman
 Located in: Southern (coastal) Pavek
