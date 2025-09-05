@@ -21,7 +21,7 @@
  - Base of Operations: Beville Estate?
  - Current Leader: Trace Malcomb
 
-## Independent Seafarers Union (ISU)
+## Independent Mariners' Union (IMU)
  - Base of Operations: Somewhere in the Spinozen Sea
  - Current Leaders: Kaleah and Mauri Tobar
  - (Don't let the name fool you: these are pirates)
