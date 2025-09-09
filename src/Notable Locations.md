@@ -20,8 +20,13 @@ Located in: Beville Estate
 
 About: Mayor's name is Penelope 
 
+## Killebrew's Bay
+Located in: Spinoza
+
+About: Hosts Spinoza's capital city of Marcamin. Named For Isaiah Killebrew.
+
 ## Marcamin
-Located in: Coastal Spinoza
+Located in: Killebrew's Bay, Spinoza
 
 About: Spinoza's capital. Sits about halfway down the slope of a dormant volcano, and stretches down to the sea. Bustling port city. Almost everything produced on the islands passes through here.
 
