@@ -5,7 +5,7 @@ Alias:
 
 Pronouns: They/She
 
-Class: 
+Class: soul knife monk?
 
 Race: Human(?)
 
@@ -22,7 +22,7 @@ Playability (Story, Campaign, or NPC):
 Associated Songs/Playlists:
  - 
 # Physical Description
-Eye Color: 
+Eye Color: unnaturally blue
 
 Hair Color: 
 
@@ -55,6 +55,7 @@ Family:
 Rivals: 
 
 Enemies: 
+- Kaleah and Mauri Tobar (IMU)
 
 Significant Other/Partner:
 
