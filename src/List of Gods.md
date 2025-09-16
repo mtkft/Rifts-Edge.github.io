@@ -16,7 +16,10 @@
 
 ## Navarez: God of Transmutation
  - part of the Pantheon
- - Deceased
+ - "The Alchemist"
+  - I liked him too much, he's such an asshole. I couldn't just leave him in the basement forever.
+  - Twin Brother of Toi
+ - He can no longer speak on his own; As punishment for his tendency to lie, Toi tore out Navarez's tongue and made it into the Amphisbaena that coils around Navarez's neck. One head of the snake speaks when Navarez (to his own knowledge) tells the truth; the other speaks when he lies.
 
 ## Rohadin: Goddess of Erosion 
  - goddess of aging, and the changing of things due to time
@@ -42,7 +45,8 @@
 
 ## Toi: God of Divination
  - part of the Pantheon
- - Deceased 
+ - "The Magician"
+ - Twin Brother of Navarez
 
 ## Triandrus: God of Aberration 
  - Glass Sprites are his minions
