@@ -9,7 +9,8 @@
 
 ## Iodahri: God of Conjuration
  - part of the Pantheon 
- - Deceased
+  - "The Magician"
+ - Twin Brother of Navarez
 
 ## Lomis: God of Navigation 
  - used to be focused on just navigation at sea. is now god of navigation everywhere, and is the patron of travelers.
@@ -18,7 +19,7 @@
  - part of the Pantheon
  - "The Alchemist"
   - I liked him too much, he's such an asshole. I couldn't just leave him in the basement forever.
-  - Twin Brother of Toi
+  - Twin Brother of Iodahri
  - He can no longer speak on his own; As punishment for his tendency to lie, Toi tore out Navarez's tongue and made it into the Amphisbaena that coils around Navarez's neck. One head of the snake speaks when Navarez (to his own knowledge) tells the truth; the other speaks when he lies.
 
 ## Rohadin: Goddess of Erosion 
@@ -45,8 +46,7 @@
 
 ## Toi: God of Divination
  - part of the Pantheon
- - "The Magician"
- - Twin Brother of Navarez
+ - Deceased
 
 ## Triandrus: God of Aberration 
  - Glass Sprites are his minions
