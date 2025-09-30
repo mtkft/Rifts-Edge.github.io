@@ -10,17 +10,17 @@
 ## Iodahri: God of Conjuration
  - part of the Pantheon 
   - "The Magician"
- - Twin Brother of Navarez
+ - Twin Brother of Navarez, younger brother of Zuleima
 
 ## Lomis: God of Navigation 
  - used to be focused on just navigation at sea. is now god of navigation everywhere, and is the patron of travelers.
 
-## Navarez: God of Transmutation
+## Navarez: God of Transmutation, Fabrication (Falsification)
  - part of the Pantheon
  - "The Alchemist"
   - I liked him too much, he's such an asshole. I couldn't just leave him in the basement forever.
-  - Twin Brother of Iodahri
- - He can no longer speak on his own; As punishment for his tendency to lie, Toi tore out Navarez's tongue and made it into the Amphisbaena that coils around Navarez's neck. One head of the snake speaks when Navarez (to his own knowledge) tells the truth; the other speaks when he lies.
+  - Twin Brother of Iodahri, younger brother of Zuleima
+ - He can no longer speak on his own; As punishment for his attacking their sister and all his lies, Iodahri tore out Navarez's tongue and made it into the Amphisbaena that coils around Navarez's neck. One head of the snake speaks when Navarez (to his own knowledge) tells the truth; the other speaks when he lies.
 
 ## Rohadin: Goddess of Erosion 
  - goddess of aging, and the changing of things due to time
@@ -51,6 +51,12 @@
 ## Triandrus: God of Aberration 
  - Glass Sprites are his minions
  - Triandrus welcomes the outcasts. Those considered odd by society.
+
+## Zuleima: Goddess of Fabrication, Invention
+- Older sister of Navarez and Iodahri
+- Pavek's scholars invent in her name
+- In limbo between life and death. Navarez attempted to kill her in hopes that he would gain her prowess in craftsmanship; instead he injured and weakened her severely, and gained the power of fabrication in its other sense — deception.
+- The volcano on which Marcamin lies is her forge; it has been dormant since Navarez's attack.
 
 
 
