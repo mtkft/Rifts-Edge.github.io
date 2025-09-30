@@ -20,6 +20,11 @@ Located in: Beville Estate
 
 About: Mayor's name is Penelope 
 
+## Forge of Zuleima
+Located in: Spinoza
+
+About: The volcano on which Marcamin lies; it has been dormant since Navarez attacked Zuleima. Legend has it that she locked herself away in the depths of her forge to hide from her little brother's greed.
+
 ## Killebrew's Bay
 Located in: Spinoza
 
@@ -28,7 +33,7 @@ About: Hosts Spinoza's capital city of Marcamin. Named For Isaiah Killebrew.
 ## Marcamin
 Located in: Killebrew's Bay, Spinoza
 
-About: Spinoza's capital. Sits about halfway down the slope of a dormant volcano, and stretches down to the sea. Bustling port city. Almost everything produced on the islands passes through here.
+About: Spinoza's capital. Sits about halfway down the slope of the Forge of Zuleima, and stretches down to Killebrew's Bay. A bustling port city. Almost everything produced on the islands passes through here.
 
 ## Monirul
 Located in: Central Pavek
