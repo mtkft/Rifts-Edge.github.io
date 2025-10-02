@@ -15,6 +15,11 @@ Located in: Earthenbane Mountains (Beville/Carin)
 
 About: A floating city high in the Earthenbane Mountains. When gazed upon from a certain angle, the titular crescent shape can be viewed, perfectly framing the moonrise behind it if you time it right.
 
+## Earthenbane Mountains 
+Located in: Beville/Carin
+
+About: A mountain range that covers Carin's South and Beville's north. Some of the mountains are huge upcroppings, as one would expect. Others are massive floating islands of stone and ice, webbed with veins of a highly sought after ore: 
+
 ## Eckert
 Located in: Beville Estate 
 
