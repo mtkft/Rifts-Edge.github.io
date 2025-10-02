@@ -60,6 +60,11 @@ Located in: Southern (coastal) Pavek
 
 About: Pavek's "Second Capital". Hosts much of Pavek's trade. Seabreeze and landbreeze facilitate the comings and goings of seafaring ships and airships alike.
 
+## Sarnai
+Located in: Sandoval
+
+About: 
+
 ## Valemire
 Located in: Eastern Spinoza
 
