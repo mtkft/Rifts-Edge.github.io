@@ -63,7 +63,7 @@ About: Pavek's "Second Capital". Hosts much of Pavek's trade. Seabreeze and land
 ## Sarnai
 Located in: Sandoval
 
-About: 
+About: Capital of the Sandoval Estate. Home to a massive instiute for the teaching of magic.
 
 ## Valemire
 Located in: Eastern Spinoza
