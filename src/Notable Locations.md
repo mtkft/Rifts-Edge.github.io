@@ -30,6 +30,12 @@ Located in: Spinoza
 
 About: The volcano on which Marcamin lies; it has been dormant since Navarez attacked Zuleima. Legend has it that she locked herself away in the depths of her forge to hide from her little brother's greed.
 
+## - House of Isimel
+Located in: outside Sarnai, Sandoval
+
+About: The Conservatory's Library. Despite the name, it's less of a house and more of a sprawling underground labyrinth crammed wall to wall with bookshelves. A central rotunda marks its entrance, with two floors above ground and one below. Surrounding the rotunda, 150(?) concentric circles of shelves have been mapped and organized by a standardized sorting system. Beyond this mapped area lies chaos. Long, winding tunnels snake off for miles, branching and reconnecting, or abruptly ending where a cave–in has occurred. These parts of the library are navigable only by the Soulwound Automata that maintain the library, seemingly in spite of human presence and efforts.
+Creatures lurk within the library's walls, but fearing the light and near–constant low hum of human activity, never approach the Rotunda. The Rotunda is safe. Stay there, and ask the staff for the book you require. Let them handle the rest.
+
 ## Killebrew's Bay
 Located in: Spinoza
 
