@@ -1,5 +1,10 @@
 # Notable Locations
 
+## Berlioz
+Located in: Pavek Estate (formerly Sandoval Estate)
+
+About: Border town. Was seized by Pavek Estate about 5 years ago.
+
 ## Bloomfield
 Located in: Beville Estate 
 
