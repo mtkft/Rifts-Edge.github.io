@@ -3,7 +3,7 @@
 ## Berlioz
 Located in: Pavek Estate (formerly Sandoval Estate)
 
-About: Border town. Was seized by Pavek Estate about 5 years ago.
+About: Border town. Was seized by Pavek Estate about 8 years ago.
 
 ## Bloomfield
 Located in: Beville Estate 
@@ -19,6 +19,11 @@ About: Mayor's name is Noam
 Located in: Earthenbane Mountains (Beville/Carin)
 
 About: A floating city high in the Earthenbane Mountains. When gazed upon from a certain angle, the titular crescent shape can be viewed, perfectly framing the moonrise behind it if you time it right.
+
+## Derriona
+Located in: Pavek Estate (Formerly Sandoval Estate)
+
+About: Border town. Formerly one of nine towns authorized to operate Soulwood Groves in Sandoval. Violently seized by Pavek Estate about 5 years ago.
 
 ## Earthenbane Mountains 
 Located in: Beville/Carin
