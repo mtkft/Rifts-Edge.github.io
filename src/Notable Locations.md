@@ -28,7 +28,7 @@ About: Border town. Formerly one of nine towns authorized to operate Soulwood Gr
 ## Earthenbane Mountains 
 Located in: Beville/Carin
 
-About: A mountain range that covers Carin's South and Beville's north. Some of the mountains are huge upcroppings, as one would expect. Others are massive floating islands of stone and ice, webbed with veins of a highly sought after ore: 
+About: A mountain range that covers Carin's South and Beville's north. Some of the mountains are huge upcroppings, as one would expect. Others are massive floating islands of stone and ice, webbed with veins of a highly sought after ore: [working name is Startied Silver]
 
 ## Eckert
 Located in: Beville Estate 
