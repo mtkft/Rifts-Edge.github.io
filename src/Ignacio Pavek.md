@@ -43,6 +43,7 @@ Notable Achievements:
 Friends: 
 
 Companions: 
+- Enensa Rouse (Lancehound)
 
 Family: 
  - Abiola Pavek (Older Sister)
@@ -55,7 +56,7 @@ Enemies:
 Significant Other/Partner:
 
 Other: 
- - Izzy bas Dvoyre (Subordinate$
+ - Izzy bas Dvoyre (Subordinate)
 
 # About
   Lorem ipsum
