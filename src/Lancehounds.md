@@ -23,6 +23,7 @@ Essentially Paladins with extra steps.
 ### Lancehound Oathbreaker
 - Lancehounds who have broken their oath to their Estate due to their orders violating their oath to their Deity. Their secondary oath is now to their found family, or the people of the community in which they choose to reside.
     - Riothounds are a subset of Oathbreakers. They reside within their communities in secret, only donning their armor and raising their weapon during protests and riots before slipping back into the shadows when their people are safe. They've been known to kill Cavaliers in battle.
+    - True Oathbreakers are rare. 
 
 ### Lancehound Pathwalker
 - Lancehounds that are self-trained, or trained unofficially by another Lancehound. Their oath is to their Deity, and they often act as adventurers or mercenaries.
