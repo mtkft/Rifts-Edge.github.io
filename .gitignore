@@ -5,4 +5,4 @@ _site
 Gemfile.lock
 src/.obsidian/*
 vendor
-.*md
+_*md
