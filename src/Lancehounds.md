@@ -13,11 +13,11 @@ Essentially Paladins with extra steps.
 
 ## Lancehound Types
 
-### Lancehound Devotee
+### Lancehound Cavalier 
 - Lancehounds who serve as the personal bodyguard to a Head of Estate (or to the Heir of the same title). Their oath is to their Charge, and to Harke, Goddess of Devotion.
     - A Lancehound Devotee and their Charge share a bond like no other. Through their bond, strengthened by their Goddess, senses and even thoughts can be shared between Lancehound and Charge.
 
-### Lancehound Cavalier
+### Lancehound Knight
 - The most common type of Lancehound. Your average Knight in Shining Armor. Their oath is to their chosen Deity and their Estate, in that order.
 
 ### Lancehound Oathbreaker
