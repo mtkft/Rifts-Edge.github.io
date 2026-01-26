@@ -4,7 +4,7 @@
 ### Other Cities of Note
  - The Crescent City
 
-### Demonym: 
+### Demonym: Carinois
 
 ### Founder: 
 
