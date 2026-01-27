@@ -3,7 +3,7 @@
 - Seat of Government: Monirul
 ### Demonym
 
-### Founder
+### Founder: Zanji Pavek
 
 ### Current Estate Head: Abiola Pavek
 
