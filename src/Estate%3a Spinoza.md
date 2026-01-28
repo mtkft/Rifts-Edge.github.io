@@ -5,7 +5,7 @@
 ### Demonym
 If you're in the know, you spell it right: Spinozen, with an _e_
 ### Founder
-some guy by the surname
+Nydia Spinoza
 ### Current Estate Head
 Almena Spinoza
 ## Geography
