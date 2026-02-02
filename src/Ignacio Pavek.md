@@ -43,7 +43,8 @@ Notable Achievements:
 Friends: 
 
 Companions: 
-- Enensa Rouse (Lancehound)
+- ~~Enensa Rouse (former Lancehound Devotee; broke her oath for reasons that seem fine)~~
+- Étienne “Swampy Steve” le Sueur (new Devotee since the departure of Enensa)
 
 Family: 
  - Abiola Pavek (Older Sister)
