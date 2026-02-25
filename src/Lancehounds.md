@@ -19,6 +19,7 @@ Essentially Paladins with extra steps.
 
 ### Lancehound Cavalier
 - The most common type of Lancehound. Your average Knight in Shining Armor. Their oath is to their chosen Deity and their Estate, in that order.
+- Frequently descendants of war heroes.
 
 ### Lancehound Oathbreaker
 - Lancehounds who have broken their oath to their Estate due to their orders violating their oath to their Deity. Their secondary oath is now to their found family, or the people of the community in which they choose to reside.
