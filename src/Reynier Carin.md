@@ -1,5 +1,5 @@
 # Basic Info
-Character Name: Reynier Carin
+Character Name: Tumil Carin
 
 Alias: Claude Cantor
 
