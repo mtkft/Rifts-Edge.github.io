@@ -10,6 +10,11 @@ Located in: Beville Estate
 
 About: Mayor's name is Leonard
 
+## Coralkeep
+Located in: Cadocali
+
+About: Capital City of the Dwarven Lands, and, more importantly, Dwarven Seas. Consists of hundreds, maybe thousands of ships, boats and submarines rafted up together. 
+
 ## Chomsky
 Located in: Beville Estate 
 
