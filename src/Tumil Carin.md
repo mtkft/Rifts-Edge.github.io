@@ -1,15 +1,15 @@
 # Basic Info
 Character Name: Tumil Carin
 
-Alias: Claude Cantor
+Alias: 
 
-Pronouns: He/Him
+Pronouns: They/Them
 
 Class: 
 
 Race: Human
 
-Alignment: 
+Alignment: Chaotic __
 
 Affiliations: 
 
@@ -22,31 +22,33 @@ Playability (Story, Campaign, or NPC):
 Associated Songs/Playlists:
  - 
 # Physical Description
-Eye Color: 
+Eye Color: Brown
 
-Hair Color: 
+Hair Color: Brown
 
 Height: 
 
 # Social
-Birthplace: Carin Estate
+Birthplace: Marovic, Carin Estate
 
-Current Residence: Carin Estate
+Current Residence: Marovic, Carin Estate
 
 Employment: Head of Estate
 
-Titles: 
+Titles: Magister
 
 Notable Achievements:
 
 # Relationships
-Friends: 
+Friends: Jyoshi Sandoval
 
 Companions: 
- - unnamed lancehound
+ - Starling Hallowell lancehound
 
 Family: 
- - Atelio (older Brother)
+ - Atelio Carin (Older Brother)
+ - Anita Carin (Younger Sister)
+ - Sonji Carin (Youngest Brother)
 
 Rivals: 
 
