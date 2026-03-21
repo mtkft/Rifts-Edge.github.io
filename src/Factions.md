@@ -39,7 +39,7 @@
 
 ## Rift's Edge Adventures Guild (REAG)
  - Base of Operations: Ostolaza
- - Current Leader: Rajeev Samirra
+ - Current Leader: Rajiva Samirra
 
 ## Sandoval Family
  - Base of Operations: Sandoval Estate
