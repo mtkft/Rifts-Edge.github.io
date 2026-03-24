@@ -41,6 +41,11 @@
  - Base of Operations: Ostolaza
  - Current Leader: Rajiva Samirra
 
+## Rosewatch
+ - Base of Operations: Sarnai, Sandoval Estate
+ - Current Leader: ???
+      - Mysterious organization that protects and maintains the strange patterns of roads that crisscross Sarnai. They are hardly seen during the day, only appearing precisely when they need to. At night they silently patrol the glowing streets in their copper-colored robes.
+
 ## Sandoval Family
  - Base of Operations: Sandoval Estate
  - Current Leader: Jyoshi Sandoval
