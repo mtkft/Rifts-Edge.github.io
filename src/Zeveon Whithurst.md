@@ -81,6 +81,7 @@ Other:
 - Aziz Monti (squadmate)
 - Auset Sheffield (squadmate)
 - Maykel Teffit (squadmate)
+- Vianca Boudreaux (Drill Sergeant)
 
 # About
   Former sniper in Pavek's military. Legendary Marksman. He is said to have only missed two shots to date (he may have missed more, but were there survivors to witness it?). Soft spoken, if you can get him to speak at all.
