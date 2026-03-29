@@ -4,7 +4,7 @@ Character Name: Aziz "Skeet" Monti
 Alias: 
 - Skeet (First by Maykel Teffit, then by others)
 - Bullseye (by Jella Acosta)
-- 
+- Game Pigeon (Vianca Boudreaux)
 
 
 Pronouns: he/him
@@ -41,6 +41,7 @@ Current Residence: Monirul, Pavek Estate
 
 Employment: 
 - Magister's Guard (Pavek)
+- Pavek military 
 
 Titles: 
 - Guard Captain 
@@ -63,7 +64,17 @@ Enemies:
 Significant Other/Partner:
 
 Other: 
-- 
+- Jella Acosta (squadmate)
+- Edgar Blauser (squadmate)
+- Noreen Blauser (squadmate)
+- Celeste Cardenas (squadmate)
+- Izzy bas Dvoyre (squadmate)
+- Tyran Kataras (squadmate)
+- Auset Sheffield (squadmate)
+- Maykel Teffit (squadmate)
+- Zeveon Whithurst (squadmate)
+- Vianca Boudreaux (Drill Sergeant)
 
 # About
-  Lorem ipsum
+  Current Guard Captain of the Magister's Guard, Pavek Edition. A skilled fighter, but still struggling to escape his father's shadow.
+Callsign earned through an incident during a drill where he was almost shot by Zeveon Whithurst. 
