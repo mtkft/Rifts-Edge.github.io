@@ -7,21 +7,23 @@ Alias:
 - 
 
 
-Pronouns:
+Pronouns: he/him
 
-Class: 
+Class: fighter
 
-Race: 
+Race: human
 
-Alignment: 
+Alignment: neutral evil
 
 Affiliations: 
+- Pavek Military
+- Magister's Guard (Pavek)
 
 Age: 
 
-Status: 
+Status: Alive
 
-Playability (Story, Campaign, or NPC): 
+Playability (Story, Campaign, or NPC): Campaign NPC
 
 Associated Songs/Playlists:
  - 
@@ -30,16 +32,18 @@ Eye Color:
 
 Hair Color: 
 
-Height: 
+Height: 5'11"
 
 # Social
-Birthplace: 
+Birthplace: Monirul, Pavek Estate
 
-Current Residence: 
+Current Residence: Monirul, Pavek Estate
 
 Employment: 
+- Magister's Guard (Pavek)
 
 Titles: 
+- Guard Captain 
 
 Notable Achievements:
 
@@ -49,14 +53,17 @@ Friends:
 Companions: 
 
 Family: 
+- Lancehound Cavalier Laynus Monti (Father)
 
 Rivals: 
+- Zeveon Whithurst
 
 Enemies: 
 
 Significant Other/Partner:
 
 Other: 
+- 
 
 # About
   Lorem ipsum
