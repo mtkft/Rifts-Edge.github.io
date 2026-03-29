@@ -35,7 +35,7 @@ Eye Color:
 
 Hair Color: 
 
-Height: 5"0'
+Height: 5'0"
 
 # Social
 Birthplace: Steelgate, Pavek Estate
