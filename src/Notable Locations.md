@@ -60,6 +60,7 @@ About: Hosts Spinoza's capital city of Marcamin. Named For Isaiah Killebrew.
 Located in: Killebrew's Bay, Spinoza
 
 About: Spinoza's capital. Sits about halfway down the slope of the Forge of Zuleima, and stretches down to Killebrew's Bay. A bustling port city. Almost everything produced on the islands passes through here.
+Locals pronounce it "Muckmin".
 
 ## Marovic
 Located in: Carin Estate
