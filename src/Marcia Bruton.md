@@ -41,7 +41,7 @@ Other:
 
 # Items
 ## Backstory important
-- Unregistered Wayfinder
+- Adventurer's Compass
 
 ## Armament
 ### Prim
