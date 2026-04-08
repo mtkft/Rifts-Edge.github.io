@@ -7,7 +7,7 @@ Character Pronouns: She/her
 
 Class: Bard
 
-Race: Human
+Race: Human (Mostly?)
 
 Alignment: 
 
@@ -37,6 +37,7 @@ Other:
 - Scar from under left eye to just before left ear.
 - Double helix piercing on right ear, single helix on left ear. Notch on left ear suggesting the second helix piercing was pulled out.
 - Full sleeve black tattoo on right arm. Negative space designs break up the solid black sleeve. Usually kept covered by an arm warmer.
+- Long, sharp lower canines.
 
 # Items
 ## Backstory important
