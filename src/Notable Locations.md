@@ -98,6 +98,11 @@ Located in: Sandoval
 
 About: Capital of the Sandoval Estate. Home to a massive instiute for the teaching of magic. Very strict about where you can build, as the city's odd pattern of intersecting roads must not be disturbed. These meticulously maintained streets glow a pinkish–red at night, illuminating the copper–dyed robes of the the Rosewatch as they haunt the streets each evening. What awakens when the roads go dark?
 
+## Taurondë
+Located in: Taur
+
+About: Capital City of the Wood Elves
+
 ## Tuman
 Located in: Southern (coastal) Pavek
 
