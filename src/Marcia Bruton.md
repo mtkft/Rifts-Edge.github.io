@@ -13,7 +13,7 @@ Alignment:
 
 Affiliations: The Omeun Oracle
 
-Age: 30
+Age: 30 (?)
 
 Status: Alive 
 
@@ -27,9 +27,9 @@ Associated Songs/Playlists:
  - 
 
 # Physical Description
-Eye Color: heterochromatic: right eye brown, left eye amber. Wears a monocle on right eye.
+Eye Color: Heterochromatic: right eye brown, left eye amber. Wears a monocle on right eye.
 
-Hair: brown dreads, bleached at the ends and tied up
+Hair: Brown dreads, bleached at the ends and tied up
 
 Height: 5'6"
 
@@ -45,8 +45,10 @@ Other:
 
 ## Armament
 ### Prim
-
+Sword
 ### Sec
+Fiddle
+
 # Social
 Birthplace: Pikeman's Cairn, Pavek Estate
 
@@ -55,6 +57,7 @@ Current Residence: Omeun, Ostolaza
 Employment:
 - Food Critic for The Omeun Oracle 
 - Advice columnist for The Omeun Oracle ("Dear Miss Ciciley" Cooking and Kitchen Advice Column)
+- Hobby musician
 
 Titles: 
 
@@ -72,6 +75,7 @@ Rivals:
 Enemies: 
 
 Significant Other/Partner:
+- Wynelle Bruton (née Tomazin) (Deceased)
 
 Other: 
 
