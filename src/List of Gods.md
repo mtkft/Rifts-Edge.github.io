@@ -44,6 +44,11 @@
  - part of the Pantheon
  - Deceased
 
+## Tikhon: God of Benediction
+- Messenger god
+- God of Luck, Blessings and Messengers 
+- Bringer of blessings; He can be found in every Temple, if you know what to look for.
+
 ## Toi: God of Divination
  - part of the Pantheon
  - Deceased
