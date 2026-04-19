@@ -45,9 +45,10 @@
  - Deceased
 
 ## Tikhon: God of Benediction
-- Messenger god
+- The Red Hare
 - God of Luck, Blessings and Messengers 
-- Bringer of blessings; He can be found in every Temple, if you know what to look for.
+- Bringer of blessings; They can be found in every Temple, if you know what to look for.
+- When visited by them while sleeping, one may dream of a red hare running across an endless plane of shallow water at sunset. One will then wake to find their delivery nearby.
 
 ## Toi: God of Divination
  - part of the Pantheon
